@@ -1,0 +1,760 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <row>
+    <LogDate>2023-09-22 12:31:37.550</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Microsoft Azure SQL Edge Developer (RTM) - 15.0.2000.1574 (ARM64) 
+	Jan 25 2023 10:36:08 
+	Copyright (C) 2019 Microsoft Corporation
+	Linux (Ubuntu 18.04.6 LTS aarch64) &lt;ARM64&gt;</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:37.550</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>UTC adjustment: 0:00</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:37.550</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>(c) Microsoft Corporation.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:37.560</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>All rights reserved.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:37.560</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Server process ID is 32.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:37.560</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Logging SQL Server messages in file '/var/opt/mssql/log/errorlog'.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:37.560</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Registry startup parameters: 
+	 -d /var/opt/mssql/data/master.mdf
+	 -l /var/opt/mssql/data/mastlog.ldf
+	 -e /var/opt/mssql/log/errorlog</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:37.560</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>SQL Server detected 1 sockets with 4 cores per socket and 4 logical processors per socket, 4 total logical processors; using 4 logical processors based on SQL Server licensing. This is an informational message; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:37.570</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>SQL Server is starting at normal priority base (=7). This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:37.570</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Detected 3146 MB of RAM. This is an informational message; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:37.570</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Using conventional memory in the memory manager.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:37.580</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Page exclusion bitmap is enabled.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:37.600</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Buffer Pool: Allocating 524288 bytes for 445108 hashPages.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:37.980</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Buffer pool extension is already disabled. No action is necessary.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.360</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Successfully initialized the TLS configuration. Allowed TLS protocol versions are ['1.0 1.1 1.2']. Allowed TLS ciphers are ['ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-SHA256:ECDHE-ECDSA-AES256-SHA384:ECDHE-ECDSA-AES256-SHA:ECDHE-ECDSA-AES128-SHA:AES256-GCM-SHA384:AES128-GCM-SHA256:AES256-SHA256:AES128-SHA256:AES256-SHA:AES128-SHA:!DHE-RSA-AES256-GCM-SHA384:!DHE-RSA-AES128-GCM-SHA256:!DHE-RSA-AES256-SHA:!DHE-RSA-AES128-SHA'].</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.420</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Query Store settings initialized with enabled = 1, </Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.440</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Node configuration: node 0: CPU mask: 0x000000000000000f:0 Active CPU mask: 0x000000000000000f:0. This message provides a description of the NUMA configuration for this computer. This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.450</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Using dynamic lock allocation.  Initial allocation of 500 Lock blocks and 1000 Lock Owner blocks per node.  This is an informational message only.  No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.470</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Database Instant File Initialization: enabled. For security and performance considerations see the topic 'Database Instant File Initialization' in SQL Server Books Online. This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.480</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Total Log Writer threads: 1. This is an informational message; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.480</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Software Usage Metrics is disabled.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.510</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>[1]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 0. CleanupUnderUserTransaction: 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.520</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>Starting up database 'master'.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.570</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [1] File Id: [1] - Zeroring encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.580</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>The DEK is already set for DBID = [1] file id 1.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.620</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [1] File Id: [2] - Zeroring encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.620</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>The DEK is already set for DBID = [1] file id 2.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.640</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>4 transactions rolled forward in database 'master' (1:0). This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.650</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>0 transactions rolled back in database 'master' (1:0). This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.660</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>Recovery is writing a checkpoint in database 'master' (1). This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.840</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>SQL Server Audit is starting the audits. This is an informational message. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.850</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>SQL Server Audit has started the audits. This is an informational message. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.920</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>SQL Trace ID 1 was started by login "sa".</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.930</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>Server name is 'df6123f22f0f'. This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.940</LogDate>
+    <ProcessInfo>spid25s</ProcessInfo>
+    <Text>[4]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 0. CleanupUnderUserTransaction: 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.940</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>[32767]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 0. CleanupUnderUserTransaction: 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.940</LogDate>
+    <ProcessInfo>spid26s</ProcessInfo>
+    <Text>[5]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 0. CleanupUnderUserTransaction: 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.950</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>Starting up database 'mssqlsystemresource'.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.950</LogDate>
+    <ProcessInfo>spid25s</ProcessInfo>
+    <Text>Starting up database 'msdb'.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.950</LogDate>
+    <ProcessInfo>spid26s</ProcessInfo>
+    <Text>Starting up database 'SAMPLE'.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.950</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [32767] File Id: [1] - Copying encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.960</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>DBID: [32767] File Header for File Id: [1] was read with state = 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.960</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>DBID: [32767] No DEK update for File Id: [1] while existing DEK is null.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.960</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>The resource database build version is 15.00.2000. This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.970</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [32767] File Id: [2] - Copying encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.970</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>DBID: [32767] File Header for File Id: [2] was read with state = 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:39.970</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>DBID: [32767] No DEK update for File Id: [2] while existing DEK is null.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.000</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>[3]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 0. CleanupUnderUserTransaction: 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.000</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>Starting up database 'model'.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.040</LogDate>
+    <ProcessInfo>spid26s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [5] File Id: [1] - Copying encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.040</LogDate>
+    <ProcessInfo>spid26s</ProcessInfo>
+    <Text>DBID: [5] File Header for File Id: [1] was read with state = 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.040</LogDate>
+    <ProcessInfo>spid26s</ProcessInfo>
+    <Text>DBID: [5] No DEK update for File Id: [1] while existing DEK is null.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.040</LogDate>
+    <ProcessInfo>spid25s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [4] File Id: [1] - Copying encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.050</LogDate>
+    <ProcessInfo>spid25s</ProcessInfo>
+    <Text>DBID: [4] File Header for File Id: [1] was read with state = 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.050</LogDate>
+    <ProcessInfo>spid25s</ProcessInfo>
+    <Text>DBID: [4] No DEK update for File Id: [1] while existing DEK is null.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.060</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [3] File Id: [1] - Zeroring encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.070</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>The DEK is already set for DBID = [3] file id 1.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.090</LogDate>
+    <ProcessInfo>spid22s</ProcessInfo>
+    <Text>A self-generated certificate was successfully loaded for encryption.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.100</LogDate>
+    <ProcessInfo>spid22s</ProcessInfo>
+    <Text>Server is listening on [ 'any' &lt;ipv6&gt; 1433] accept sockets 1.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.100</LogDate>
+    <ProcessInfo>spid22s</ProcessInfo>
+    <Text>Server is listening on [ 'any' &lt;ipv4&gt; 1433] accept sockets 1.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.100</LogDate>
+    <ProcessInfo>spid25s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [4] File Id: [2] - Copying encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.100</LogDate>
+    <ProcessInfo>spid25s</ProcessInfo>
+    <Text>DBID: [4] File Header for File Id: [2] was read with state = 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.110</LogDate>
+    <ProcessInfo>spid25s</ProcessInfo>
+    <Text>DBID: [4] No DEK update for File Id: [2] while existing DEK is null.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.110</LogDate>
+    <ProcessInfo>spid22s</ProcessInfo>
+    <Text>Dedicated administrator connection support was not started because it is disabled on this edition of SQL Server. If you want to use a dedicated administrator connection, restart SQL Server using the trace flag 7806. This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.120</LogDate>
+    <ProcessInfo>spid26s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [5] File Id: [2] - Copying encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.120</LogDate>
+    <ProcessInfo>spid26s</ProcessInfo>
+    <Text>DBID: [5] File Header for File Id: [2] was read with state = 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.130</LogDate>
+    <ProcessInfo>spid26s</ProcessInfo>
+    <Text>DBID: [5] No DEK update for File Id: [2] while existing DEK is null.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.130</LogDate>
+    <ProcessInfo>spid22s</ProcessInfo>
+    <Text>Server is listening on [ ::1 &lt;ipv6&gt; 1431] accept sockets 1.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.130</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [3] File Id: [2] - Zeroring encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.140</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>The DEK is already set for DBID = [3] file id 2.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.140</LogDate>
+    <ProcessInfo>spid22s</ProcessInfo>
+    <Text>Server is listening on [ 127.0.0.1 &lt;ipv4&gt; 1431] accept sockets 1.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.140</LogDate>
+    <ProcessInfo>spid22s</ProcessInfo>
+    <Text>SQL Server is now ready for client connections. This is an informational message; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.150</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>Recovery is writing a checkpoint in database 'msdb' (4). This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.160</LogDate>
+    <ProcessInfo>spid26s</ProcessInfo>
+    <Text>Parallel redo is started for database 'SAMPLE' with worker pool size [2].</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.170</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>Clearing tempdb database.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.210</LogDate>
+    <ProcessInfo>spid26s</ProcessInfo>
+    <Text>23 transactions rolled forward in database 'SAMPLE' (5:0). This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.240</LogDate>
+    <ProcessInfo>spid26s</ProcessInfo>
+    <Text>0 transactions rolled back in database 'SAMPLE' (5:0). This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.250</LogDate>
+    <ProcessInfo>spid26s</ProcessInfo>
+    <Text>Recovery is writing a checkpoint in database 'SAMPLE' (5). This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.260</LogDate>
+    <ProcessInfo>spid26s</ProcessInfo>
+    <Text>Parallel redo is shutdown for database 'SAMPLE' with worker pool size [2].</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.370</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [2] File Id: [1] - Copying encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.380</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>DBID: [2] File Header for File Id: [1] was read with state = 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.380</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>DBID: [2] No DEK update for File Id: [1] while existing DEK is null.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.400</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [2] File Id: [2] - Copying encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.400</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>DBID: [2] File Header for File Id: [2] was read with state = 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.400</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>DBID: [2] No DEK update for File Id: [2] while existing DEK is null.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.410</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>[2]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 0. CleanupUnderUserTransaction: 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.410</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>Starting up database 'tempdb'.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.450</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [2] File Id: [1] - Copying encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.460</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>DBID: [2] File Header for File Id: [1] was read with state = 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.460</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>DBID: [2] No DEK update for File Id: [1] while existing DEK is null.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.500</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>Refresh DEK for DBID: [2] File Id: [2] - Copying encryption state</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.500</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>DBID: [2] File Header for File Id: [2] was read with state = 0.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.500</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>DBID: [2] No DEK update for File Id: [2] while existing DEK is null.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.610</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Server is listening on [ 127.0.0.1 &lt;ipv4&gt; 14300] accept sockets 1.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.620</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Server is listening on [ 127.0.0.1 &lt;ipv4&gt; 33015] accept sockets 1.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.630</LogDate>
+    <ProcessInfo>spid11s</ProcessInfo>
+    <Text>The tempdb database has 1 data file(s).</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.630</LogDate>
+    <ProcessInfo>spid9s</ProcessInfo>
+    <Text>Recovery is complete. This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.630</LogDate>
+    <ProcessInfo>spid25s</ProcessInfo>
+    <Text>The Service Broker endpoint is in disabled or stopped state.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.640</LogDate>
+    <ProcessInfo>spid25s</ProcessInfo>
+    <Text>The Database Mirroring endpoint is in disabled or stopped state.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.660</LogDate>
+    <ProcessInfo>spid25s</ProcessInfo>
+    <Text>Service Broker manager has started.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:40.770</LogDate>
+    <ProcessInfo>Server</ProcessInfo>
+    <Text>Configuring Always Encrypted enclave in asynchronous mode.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:46.860</LogDate>
+    <ProcessInfo>spid51</ProcessInfo>
+    <Text>Attempting to load library 'xplog70.dll' into memory. This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:46.900</LogDate>
+    <ProcessInfo>spid51</ProcessInfo>
+    <Text>Using 'xplog70.dll' version '2019.150.2000' to execute extended stored procedure 'xp_msver'. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:47.060</LogDate>
+    <ProcessInfo>spid51</ProcessInfo>
+    <Text>Attempting to load library 'xpstar.dll' into memory. This is an informational message only. No user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:31:47.110</LogDate>
+    <ProcessInfo>spid51</ProcessInfo>
+    <Text>Using 'xpstar.dll' version '2019.150.2000' to execute extended stored procedure 'xp_instance_regread'. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:41:33.430</LogDate>
+    <ProcessInfo>spid53</ProcessInfo>
+    <Text>Setting database option ALLOW_SNAPSHOT_ISOLATION to ON for database 'SAMPLE'.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 12:53:08.900</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>Setting database option ALLOW_SNAPSHOT_ISOLATION to OFF for database 'SAMPLE'.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:28:22.190</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>DBCC TRACEON 1222, server process ID (SPID) 55. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:28:22.220</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>DBCC TRACEON 1, server process ID (SPID) 55. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:29:18.350</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>DBCC TRACEON 1222, server process ID (SPID) 55. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:29:56.160</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>DBCC TRACEOFF 1222, server process ID (SPID) 55. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:30:30.060</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>DBCC TRACEOFF 1222, server process ID (SPID) 55. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:30:30.060</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>DBCC TRACEOFF 1, server process ID (SPID) 55. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:31:09.800</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>DBCC TRACEON 1222, server process ID (SPID) 55. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:31:17.360</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>DBCC TRACEOFF 1222, server process ID (SPID) 55. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:31:17.360</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>DBCC TRACEOFF 1, server process ID (SPID) 55. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:31:32.790</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>DBCC TRACEON 1222, server process ID (SPID) 55. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:31:32.800</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>DBCC TRACEON 1, server process ID (SPID) 55. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:31:39.670</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>DBCC TRACEOFF 1222, server process ID (SPID) 55. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:31:39.670</LogDate>
+    <ProcessInfo>spid55</ProcessInfo>
+    <Text>DBCC TRACEOFF 1, server process ID (SPID) 55. This is an informational message only; no user action is required.</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.240</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>deadlock-list</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.240</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text> deadlock victim=processeae063c28</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.240</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>  process-list</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.250</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>   process id=processeae063c28 taskpriority=0 logused=284 waitresource=KEY: 5:72057594051821568 (8194443284a0) waittime=617 ownerId=163845 transactionname=user_transaction lasttranstarted=2023-09-22T13:39:30.617 XDES=0xea753c428 lockMode=X schedulerid=3 kpid=688 status=suspended spid=57 sbid=0 ecid=0 priority=0 trancount=2 lastbatchstarted=2023-09-22T13:39:30.607 lastbatchcompleted=2023-09-22T13:39:30.607 lastattention=2023-09-22T13:24:13.797 clientapp=azdata hostname=Krishna-Macbook-Air hostpid=1343 loginname=sa isolationlevel=read committed (2) xactid=163845 currentdb=5 currentdbname=SAMPLE lockTimeout=4294967295 clientoption1=671156320 clientoption2=390200</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.270</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>    executionStack</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.270</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>     frame procname=SAMPLE.dbo.SP_TRANSACTION2 line=8 stmtstart=394 stmtend=506 sqlhandle=0x030005002af7893c59dde00085b0000001000000000000000000000000000000000000000000000000000000</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.280</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>UPDATE TABLEA SET NAME = 'MARY TRANSACTION 2' WHERE ID =     </Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.280</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>     frame procname=adhoc line=1 stmtend=44 sqlhandle=0x010005004fb398161093bf9b0e00000000000000000000000000000000000000000000000000000000000000</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.290</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>EXECUTE SP_TRANSACTION     </Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.290</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>    inputbuf</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.290</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>EXECUTE SP_TRANSACTION2    </Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.290</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>   process id=processea1209088 taskpriority=0 logused=284 waitresource=KEY: 5:72057594051887104 (8194443284a0) waittime=4580 ownerId=163812 transactionname=user_transaction lasttranstarted=2023-09-22T13:39:26.653 XDES=0xea7500428 lockMode=X schedulerid=3 kpid=740 status=suspended spid=55 sbid=0 ecid=0 priority=0 trancount=2 lastbatchstarted=2023-09-22T13:39:26.647 lastbatchcompleted=2023-09-22T13:39:26.643 lastattention=2023-09-22T13:12:05.553 clientapp=azdata hostname=Krishna-Macbook-Air hostpid=1343 loginname=sa isolationlevel=read committed (2) xactid=163812 currentdb=5 currentdbname=SAMPLE lockTimeout=4294967295 clientoption1=671156320 clientoption2=390200</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.310</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>    executionStack</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.310</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>     frame procname=SAMPLE.dbo.SP_TRANSACTION1 line=7 stmtstart=320 stmtend=432 sqlhandle=0x03000500f1d2953bc7d8e00085b0000001000000000000000000000000000000000000000000000000000000</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.310</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>UPDATE TABLEB SET NAME = 'MARK TRANSACTION 1' WHERE ID =     </Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.310</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>     frame procname=adhoc line=1 stmtend=44 sqlhandle=0x01000500a35de22b707ff6a00e00000000000000000000000000000000000000000000000000000000000000</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.320</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>EXECUTE SP_TRANSACTION     </Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.320</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>    inputbuf</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.320</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>EXECUTE SP_TRANSACTION1    </Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.320</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>  resource-list</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.320</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>   keylock hobtid=72057594051821568 dbid=5 objectname=SAMPLE.dbo.TABLEA indexname=PK__TABLEA__3214EC2761BC37BC id=lockeae516980 mode=X associatedObjectId=72057594051821568</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.320</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>    owner-list</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.320</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>     owner id=processea1209088 mode=X</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.320</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>    waiter-list</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.330</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>     waiter id=processeae063c28 mode=X requestType=wait</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.330</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>   keylock hobtid=72057594051887104 dbid=5 objectname=SAMPLE.dbo.TABLEB indexname=PK__TABLEB__3214EC27388B51D3 id=lockeae53a480 mode=X associatedObjectId=72057594051887104</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.330</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>    owner-list</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.330</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>     owner id=processeae063c28 mode=X</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.330</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>    waiter-list</Text>
+  </row>
+  <row>
+    <LogDate>2023-09-22 13:39:41.330</LogDate>
+    <ProcessInfo>spid33s</ProcessInfo>
+    <Text>     waiter id=processea1209088 mode=X requestType=wait
+</Text>
+  </row>
+</data>
